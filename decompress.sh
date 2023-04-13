@@ -1,4 +1,4 @@
-#!/usr/bin/env bash -e
+#!/usr/bin/env bash
 
 if [ -f "$1" ]; then
 	case "$1" in
